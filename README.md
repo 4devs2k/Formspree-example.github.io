@@ -23,8 +23,8 @@ Dies ist ein minimalistisches Beispielprojekt, das zeigt, wie man ein funktionsf
 1. **Repository klonen:**
 
    ```bash
-   git clone https://github.com/4devs2k/Formspree-example.git
-   cd Formspree-example
+   git clone https://github.com/4devs2k/Formspree-example.github.io.git
+   cd Formspree-example.github.io
    ```
 
 2. **Formspree konfigurieren:**
