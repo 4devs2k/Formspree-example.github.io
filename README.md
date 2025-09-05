@@ -4,7 +4,7 @@ Eine einfache Kontaktformular-Website, die [Formspree](https://formspree.io) fü
 
 ## 🌐 Live Demo
 
-Die Website ist verfügbar unter: `https://[dein-username].github.io/Formspree-example`
+Die Website ist verfügbar unter: `https://4devs2k.github.io/Formspree-example.github.io/`
 
 ## 📝 Beschreibung
 
@@ -23,7 +23,7 @@ Dies ist ein minimalistisches Beispielprojekt, das zeigt, wie man ein funktionsf
 1. **Repository klonen:**
 
    ```bash
-   git clone https://github.com/[dein-username]/Formspree-example.git
+   git clone https://github.com/4devs2k/Formspree-example.git
    cd Formspree-example
    ```
 
